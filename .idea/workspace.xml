@@ -3,21 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="ec0a97c6-d559-4cc4-8d54-7faeb9437a68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/post-update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-applypatch.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-merge-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-push.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-receive.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/push-to-checkout.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/authService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/authService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/requester.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/requester.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/Register/Register.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2D7FXuVC6xtCf74dgKQF1cnGpfA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,13 +45,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../games-play/softuni-games-play" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.1.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\components\Catalog" />
+      <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\server" />
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\services" />
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src" />
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\components\contexts" />
@@ -76,6 +79,11 @@
       <workItem from="1660114575375" duration="27000" />
       <workItem from="1660114609215" duration="62000" />
       <workItem from="1660114708740" duration="691000" />
+      <workItem from="1660506334181" duration="4224000" />
+      <workItem from="1660544168990" duration="22000" />
+      <workItem from="1660559432010" duration="8173000" />
+      <workItem from="1660568025077" duration="8713000" />
+      <workItem from="1660657571175" duration="5924000" />
     </task>
     <servers />
   </component>
@@ -92,5 +100,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

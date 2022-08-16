@@ -21,7 +21,11 @@ const pages = [
   {'key':'rivers','value':"Водоеми"},
   {'key':'blog','value': "Рибарски истории"}
 ];
-const settings = ['Профил', 'Моите истории', 'Изход'];
+const settings = [
+  {'key':'profile', 'value':"Профил"},
+  {'key':'my-blog','value':"Моите истории"},
+  {'key':'logout','value': "Изход"}
+];
 
 const Header = () => {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
@@ -155,7 +159,7 @@ const Header = () => {
               user.email
                 ?
                 <Box sx={{ flexGrow: 0 }}>
-                  <Tooltip title="Open settings">
+                  <Tooltip title="Профил">
                     <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
                       <Avatar alt="Remy Sharp"
                               src="/static/images/avatar/2.jpg"/>
@@ -178,8 +182,11 @@ const Header = () => {
                       onClose={handleCloseUserMenu}
                   >
                     {settings.map((setting) => (
-                        <MenuItem key={setting} onClick={handleCloseUserMenu}>
-                          <Typography textAlign="center">{setting}</Typography>
+                        <MenuItem key={setting.key}
+                                  onClick={handleCloseUserMenu}
+                                  to={`/${setting.key}`}
+                                  component={Link}>
+                          <Typography textAlign="center">{setting.value}</Typography>
                         </MenuItem>
                     ))}
                   </Menu>

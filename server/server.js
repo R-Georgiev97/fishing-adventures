@@ -1333,34 +1333,23 @@
         }
     };
     var seedData = {
-        games: {
+        rivers: {
             "ff436770-76c5-40e2-b231-77409eda7a61": {
                 "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
-                "title": "CoverFire",
-                "category": "Action",
-                "maxLevel": "70",
-                "imageUrl": "/images/CoverFire.png",
-                "summary": "Best action shooter game, easy controls, realistic 3D graphics and fun offline missions. Get your best shooting gun and take to action!",
+                "name": "Янтра",
+                "type": "река",
+                "description": "Янтра (в античността на латински: Iatrus, Ятрус) е река в Северна България, област Габрово – общини Габрово и Дряново, област Велико Търново – общини Велико Търново, Горна Оряховица и Полски Тръмбеш и област Русе – общини Бяла и Ценово, десен приток на река Дунав. Дължината ѝ е 285,5 km, която ѝ отрежда 7-о място сред реките на България. Река Янтра е третият по дължина приток на Дунав в България след Искър и Осъм.Река Янтра извира от северното подножие на връх Атово падало (1495 m) в Шипченска планина на Стара планина, на 1220 m н.в. До град Габрово тече на северозапад в дълбоко всечена и залесена с букови гори долина. Между Габрово и село Янтра пресича в дълбок пролом (Стражански пролом) платото Стражата и се насочва на североизток, като долината ѝ се разширява и по терасите ѝ се появяват обработваеми земи.След село Ветринци започва средното течение на реката, течението ѝ се насочва на изток, а преди град Велико Търново – на север, където преминава през живописен пролом в чертите на града през Търновските височини. При село Самоводене Янтра излиза от Търновският пролом и навлиза в Дунавската равнина, като оттук до устието ѝ по долината ѝ преминава границата между Средната и Източната Дунавска равнина.Поради малкия наклон (4,6‰) на течението в Дунавската равнина Янтра прави големи меандри (коефициент на извилистост 3,1 – най-голям за територията на България), особено в района на град Долна Оряховица и селата Върбица и Драганово. След устието на най-големия си приток Росица Янтра се насочва на север, отново обаче с множество меандри и старици (изоставени речни корита). От село Долна Студена течението ѝ става северозападно и между селата Белцов, Джулюница, Новград образува поредния живописен пролом. Влива се отдясно в река Дунав (на 536-и km), на 19 m н.в., на 1,7 km",
+                "imageUrl": "https://geograf.bg/sites/default/files/quiz/201610/img0267.jpg",
                 "_createdOn": 1617194128618,
             },
             "1840a313-225c-416a-817a-9954d4609f7c": {
                 "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
-                "title": "MineCraft",
-                "category": "Arcade",
-                "maxLevel": "250",
-                "imageUrl": "/images/MineCraft.png",
-                "summary": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for. Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+                "name": "Йовковци",
+                "type": "язовир",
+                "description": "Йовковци е името на един от най-големите по площ язовири на територията на Република България. Изграден е на река Веселина близо до град Елена, на територията на община Елена и обслужва нуждите от питейна вода на около 250 000 души в област Велико Търново и съседни области. Общият му обем е 92 179 000 m³. Язовирът е кръстен на едно от разрушените при построяването му села, което сега се намира под водата. Строителството му започва през март 1968 г., а на 27 декември 1977 г. започва неговото завиряване. Първото пускане на вода от язовира е на 25 април 1979 г. През 1981-1982 г. се осъществява пускът на хидровъзел „Йовковци“ на два етапа.",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/bg/c/cf/%D0%AF%D0%B7%D0%BE%D0%B2%D0%B8%D1%80_%D0%99%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%D1%86%D0%B8.jpg",
                 "_createdOn": 1617194210928,
             },
-            "126777f5-3277-42ad-b874-76d043b069cb": {
-                "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
-                "title": "Zombie Lang",
-                "category": "Vertical Shooter",
-                "maxLevel": "100",
-                "imageUrl": "/images/ZombieLang.png",
-                "summary": "With it’s own unique story, set between the events of the first movie, Zombieland: Double Tap- Road Trip is a ridiculously fun top-down twin-stick shooter featuring local co-op multiplayer for up to four players. Play as your favorite heroes from the original — Tallahassee, Columbus, Wichita and Little Rock — as well as new unlockable characters from the upcoming sequel.  The game embraces the game-like elements seen in the film by  incorporating everything from the “Rules” to “Zombie Kill of the Week”.  Use your special abilities, an arsenal of weapons and the essential Zombieland rules for survival to stay alive against huge numbers of uniquely grotesque and dangerous undead monstrosities in Zombieland: Double Tap- Road Trip’s story-based campaign mode, wave-based horde mode, and boss battles.",
-                "_createdOn": 1617194295474,
-            }
         },
         comments: {
         
