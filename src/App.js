@@ -9,7 +9,12 @@ import GuestRoute from './components/common/GuestRoute';
 import Logout from './components/Logout/Logout';
 import Register from './components/Register/Register';
 import * as React from 'react';
-import AllRivers from './components/Rivers/AllRivers/AllRivers';
+import AllRivers from './components/Rivers/AllRivers';
+import RiverDetails from './components/Rivers/RiverDetails';
+import AllStories from './components/Stories/AllStories';
+import AddStory from './components/Stories/AddStory';
+import Home from './components/Home/Home';
+import StoryDetails from './components/Stories/StoryDetails';
 
 function App() {
   return (
@@ -19,16 +24,22 @@ function App() {
 
           <main id="main-content">
             <Routes>
+
               <Route element={<GuestRoute/>}>
                 <Route path="/login" element={<Login/>}/>
                 <Route path="/register" element={<Register/>}/>
               </Route>
 
-              <Route path="/home" element={<Register/>}/>
-              <Route path="/" element={<Register/>}/>
+              <Route path="/home" element={<Home/>}/>
+              <Route path="/" element={<Home/>}/>
               <Route path="/rivers" element={<AllRivers/>}/>
+              <Route path="/rivers/:riverId" element={<RiverDetails/>}/>
+              <Route path="/stories" element={<AllStories/>}/>
+              <Route path="/stories/:storyId" element={<StoryDetails/>}/>
+
               <Route element={<PrivateRoute/>}>
                 <Route path="/logout" element={<Logout/>}/>
+                <Route path="/stories/create" element={<AddStory/>}/>
               </Route>
             </Routes>
           </main>

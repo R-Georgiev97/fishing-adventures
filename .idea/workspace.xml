@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec0a97c6-d559-4cc4-8d54-7faeb9437a68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fishing-adventures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fishing-adventures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Catalog/Catalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog/Catalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Catalog/CatalogItem/CatalogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog/CatalogItem/CatalogItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contexts/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/AuthContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/authService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/authService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/requester.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/requester.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rivers/AllRivers/AllRivers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rivers/AllRivers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/components/Register/Register.js" root0="FORCE_HIGHLIGHTING" />
@@ -62,6 +68,7 @@
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\components\contexts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\components\Rivers" />
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\components\Login" />
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src" />
       <recent name="C:\Users\Rado\Desktop\projects\Softuni\12.React\fishing-adventures\src\components\Header" />
@@ -83,7 +90,8 @@
       <workItem from="1660544168990" duration="22000" />
       <workItem from="1660559432010" duration="8173000" />
       <workItem from="1660568025077" duration="8713000" />
-      <workItem from="1660657571175" duration="5924000" />
+      <workItem from="1660657571175" duration="19164000" />
+      <workItem from="1660746419888" duration="5961000" />
     </task>
     <servers />
   </component>

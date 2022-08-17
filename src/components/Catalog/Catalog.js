@@ -2,7 +2,6 @@
 import CatalogItem from "./CatalogItem/CatalogItem";
 
 const Catalog = (props) => {
-  console.log(props);
     return (
         <section id="catalog-page">
             <h1>{props.title}</h1>

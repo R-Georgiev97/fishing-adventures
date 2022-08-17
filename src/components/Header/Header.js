@@ -19,11 +19,11 @@ import { Link } from 'react-router-dom';
 const pages = [
   {'key':'home', 'value':"Начало"},
   {'key':'rivers','value':"Водоеми"},
-  {'key':'blog','value': "Рибарски истории"}
+  {'key':'stories','value': "Рибарски истории"}
 ];
 const settings = [
   {'key':'profile', 'value':"Профил"},
-  {'key':'my-blog','value':"Моите истории"},
+  {'key':'my-stories','value':"Моите истории"},
   {'key':'logout','value': "Изход"}
 ];
 
