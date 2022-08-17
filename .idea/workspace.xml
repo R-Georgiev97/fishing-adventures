@@ -7,10 +7,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Catalog/Catalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog/Catalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Catalog/CatalogItem/CatalogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog/CatalogItem/CatalogItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Rivers/AllRivers/AllRivers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rivers/AllRivers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Stories/StoryDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Stories/StoryDetails.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <workItem from="1660559432010" duration="8173000" />
       <workItem from="1660568025077" duration="8713000" />
       <workItem from="1660657571175" duration="19164000" />
-      <workItem from="1660746419888" duration="5961000" />
+      <workItem from="1660746419888" duration="9302000" />
     </task>
     <servers />
   </component>

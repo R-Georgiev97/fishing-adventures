@@ -46,7 +46,7 @@ const StoryDetails = () => {
   }
 
   return (
-      <Paper variant="outlined" elevation={3}>
+      <Paper elevation={3}>
       <Container component="main">
         {!story && <Loading/>}
         <Box

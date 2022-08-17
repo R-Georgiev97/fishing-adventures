@@ -15,6 +15,7 @@ import AllStories from './components/Stories/AllStories';
 import AddStory from './components/Stories/AddStory';
 import Home from './components/Home/Home';
 import StoryDetails from './components/Stories/StoryDetails';
+import StoryEdit from './components/Stories/StoryEdit';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
               <Route path="/rivers/:riverId" element={<RiverDetails/>}/>
               <Route path="/stories" element={<AllStories/>}/>
               <Route path="/stories/:storyId" element={<StoryDetails/>}/>
+              <Route path="/stories/:storyId/edit" element={<StoryEdit/>}/>
 
               <Route element={<PrivateRoute/>}>
                 <Route path="/logout" element={<Logout/>}/>
